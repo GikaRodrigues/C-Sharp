@@ -1,0 +1,11 @@
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\Previsão\obj\Debug\netcoreapp2.1\Previsão.csprojAssemblyReference.cache
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\Previsão\obj\Debug\netcoreapp2.1\Previsão.csproj.CoreCompileInputs.cache
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\Previsão\obj\Debug\netcoreapp2.1\Previsão.AssemblyInfoInputs.cache
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\Previsão\obj\Debug\netcoreapp2.1\Previsão.AssemblyInfo.cs
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\Previsão\bin\Debug\netcoreapp2.1\Previsão.deps.json
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\Previsão\bin\Debug\netcoreapp2.1\Previsão.runtimeconfig.json
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\Previsão\bin\Debug\netcoreapp2.1\Previsão.runtimeconfig.dev.json
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\Previsão\bin\Debug\netcoreapp2.1\Previsão.dll
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\Previsão\bin\Debug\netcoreapp2.1\Previsão.pdb
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\Previsão\obj\Debug\netcoreapp2.1\Previsão.dll
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\Previsão\obj\Debug\netcoreapp2.1\Previsão.pdb

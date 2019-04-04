@@ -1,0 +1,4 @@
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ex5dinheiro\obj\Debug\netcoreapp2.1\ex5dinheiro.csprojAssemblyReference.cache
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ex5dinheiro\obj\Debug\netcoreapp2.1\ex5dinheiro.csproj.CoreCompileInputs.cache
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ex5dinheiro\obj\Debug\netcoreapp2.1\ex5dinheiro.AssemblyInfoInputs.cache
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ex5dinheiro\obj\Debug\netcoreapp2.1\ex5dinheiro.AssemblyInfo.cs

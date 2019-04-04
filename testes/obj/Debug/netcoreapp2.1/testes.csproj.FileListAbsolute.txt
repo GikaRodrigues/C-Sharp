@@ -1,0 +1,11 @@
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\testes\obj\Debug\netcoreapp2.1\testes.csprojAssemblyReference.cache
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\testes\obj\Debug\netcoreapp2.1\testes.csproj.CoreCompileInputs.cache
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\testes\obj\Debug\netcoreapp2.1\testes.AssemblyInfoInputs.cache
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\testes\obj\Debug\netcoreapp2.1\testes.AssemblyInfo.cs
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\testes\bin\Debug\netcoreapp2.1\testes.deps.json
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\testes\bin\Debug\netcoreapp2.1\testes.runtimeconfig.json
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\testes\bin\Debug\netcoreapp2.1\testes.runtimeconfig.dev.json
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\testes\bin\Debug\netcoreapp2.1\testes.dll
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\testes\bin\Debug\netcoreapp2.1\testes.pdb
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\testes\obj\Debug\netcoreapp2.1\testes.dll
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\testes\obj\Debug\netcoreapp2.1\testes.pdb

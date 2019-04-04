@@ -1,0 +1,11 @@
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\Ex6ParImpar\bin\Debug\netcoreapp2.1\Ex6ParImpar.deps.json
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\Ex6ParImpar\bin\Debug\netcoreapp2.1\Ex6ParImpar.runtimeconfig.json
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\Ex6ParImpar\bin\Debug\netcoreapp2.1\Ex6ParImpar.runtimeconfig.dev.json
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\Ex6ParImpar\bin\Debug\netcoreapp2.1\Ex6ParImpar.dll
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\Ex6ParImpar\bin\Debug\netcoreapp2.1\Ex6ParImpar.pdb
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\Ex6ParImpar\obj\Debug\netcoreapp2.1\Ex6ParImpar.csprojAssemblyReference.cache
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\Ex6ParImpar\obj\Debug\netcoreapp2.1\Ex6ParImpar.csproj.CoreCompileInputs.cache
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\Ex6ParImpar\obj\Debug\netcoreapp2.1\Ex6ParImpar.AssemblyInfoInputs.cache
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\Ex6ParImpar\obj\Debug\netcoreapp2.1\Ex6ParImpar.AssemblyInfo.cs
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\Ex6ParImpar\obj\Debug\netcoreapp2.1\Ex6ParImpar.dll
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\Ex6ParImpar\obj\Debug\netcoreapp2.1\Ex6ParImpar.pdb

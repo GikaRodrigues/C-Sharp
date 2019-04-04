@@ -1,0 +1,11 @@
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\Do\bin\Debug\netcoreapp2.1\Do.deps.json
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\Do\bin\Debug\netcoreapp2.1\Do.runtimeconfig.json
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\Do\bin\Debug\netcoreapp2.1\Do.runtimeconfig.dev.json
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\Do\bin\Debug\netcoreapp2.1\Do.dll
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\Do\bin\Debug\netcoreapp2.1\Do.pdb
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\Do\obj\Debug\netcoreapp2.1\Do.csprojAssemblyReference.cache
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\Do\obj\Debug\netcoreapp2.1\Do.csproj.CoreCompileInputs.cache
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\Do\obj\Debug\netcoreapp2.1\Do.AssemblyInfoInputs.cache
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\Do\obj\Debug\netcoreapp2.1\Do.AssemblyInfo.cs
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\Do\obj\Debug\netcoreapp2.1\Do.dll
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\Do\obj\Debug\netcoreapp2.1\Do.pdb

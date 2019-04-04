@@ -1,0 +1,11 @@
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExTabuada\bin\Debug\netcoreapp2.1\ExTabuada.deps.json
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExTabuada\bin\Debug\netcoreapp2.1\ExTabuada.runtimeconfig.json
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExTabuada\bin\Debug\netcoreapp2.1\ExTabuada.runtimeconfig.dev.json
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExTabuada\bin\Debug\netcoreapp2.1\ExTabuada.dll
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExTabuada\bin\Debug\netcoreapp2.1\ExTabuada.pdb
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExTabuada\obj\Debug\netcoreapp2.1\ExTabuada.csprojAssemblyReference.cache
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExTabuada\obj\Debug\netcoreapp2.1\ExTabuada.csproj.CoreCompileInputs.cache
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExTabuada\obj\Debug\netcoreapp2.1\ExTabuada.AssemblyInfoInputs.cache
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExTabuada\obj\Debug\netcoreapp2.1\ExTabuada.AssemblyInfo.cs
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExTabuada\obj\Debug\netcoreapp2.1\ExTabuada.dll
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExTabuada\obj\Debug\netcoreapp2.1\ExTabuada.pdb

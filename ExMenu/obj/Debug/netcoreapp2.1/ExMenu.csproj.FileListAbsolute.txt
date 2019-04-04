@@ -1,0 +1,11 @@
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExMenu\bin\Debug\netcoreapp2.1\ExMenu.deps.json
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExMenu\bin\Debug\netcoreapp2.1\ExMenu.runtimeconfig.json
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExMenu\bin\Debug\netcoreapp2.1\ExMenu.runtimeconfig.dev.json
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExMenu\bin\Debug\netcoreapp2.1\ExMenu.dll
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExMenu\bin\Debug\netcoreapp2.1\ExMenu.pdb
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExMenu\obj\Debug\netcoreapp2.1\ExMenu.csprojAssemblyReference.cache
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExMenu\obj\Debug\netcoreapp2.1\ExMenu.csproj.CoreCompileInputs.cache
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExMenu\obj\Debug\netcoreapp2.1\ExMenu.AssemblyInfoInputs.cache
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExMenu\obj\Debug\netcoreapp2.1\ExMenu.AssemblyInfo.cs
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExMenu\obj\Debug\netcoreapp2.1\ExMenu.dll
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExMenu\obj\Debug\netcoreapp2.1\ExMenu.pdb
