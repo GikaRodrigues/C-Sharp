@@ -1,0 +1,11 @@
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExVaraisPessoas\bin\Debug\netcoreapp2.1\ExVaraisPessoas.deps.json
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExVaraisPessoas\bin\Debug\netcoreapp2.1\ExVaraisPessoas.runtimeconfig.json
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExVaraisPessoas\bin\Debug\netcoreapp2.1\ExVaraisPessoas.runtimeconfig.dev.json
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExVaraisPessoas\bin\Debug\netcoreapp2.1\ExVaraisPessoas.dll
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExVaraisPessoas\bin\Debug\netcoreapp2.1\ExVaraisPessoas.pdb
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExVaraisPessoas\obj\Debug\netcoreapp2.1\ExVaraisPessoas.csprojAssemblyReference.cache
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExVaraisPessoas\obj\Debug\netcoreapp2.1\ExVaraisPessoas.csproj.CoreCompileInputs.cache
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExVaraisPessoas\obj\Debug\netcoreapp2.1\ExVaraisPessoas.AssemblyInfoInputs.cache
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExVaraisPessoas\obj\Debug\netcoreapp2.1\ExVaraisPessoas.AssemblyInfo.cs
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExVaraisPessoas\obj\Debug\netcoreapp2.1\ExVaraisPessoas.dll
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExVaraisPessoas\obj\Debug\netcoreapp2.1\ExVaraisPessoas.pdb

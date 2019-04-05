@@ -1,0 +1,11 @@
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExFor\bin\Debug\netcoreapp2.1\ExFor.deps.json
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExFor\bin\Debug\netcoreapp2.1\ExFor.runtimeconfig.json
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExFor\bin\Debug\netcoreapp2.1\ExFor.runtimeconfig.dev.json
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExFor\bin\Debug\netcoreapp2.1\ExFor.dll
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExFor\bin\Debug\netcoreapp2.1\ExFor.pdb
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExFor\obj\Debug\netcoreapp2.1\ExFor.csprojAssemblyReference.cache
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExFor\obj\Debug\netcoreapp2.1\ExFor.csproj.CoreCompileInputs.cache
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExFor\obj\Debug\netcoreapp2.1\ExFor.AssemblyInfoInputs.cache
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExFor\obj\Debug\netcoreapp2.1\ExFor.AssemblyInfo.cs
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExFor\obj\Debug\netcoreapp2.1\ExFor.dll
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExFor\obj\Debug\netcoreapp2.1\ExFor.pdb
