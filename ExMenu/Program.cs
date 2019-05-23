@@ -6,7 +6,7 @@ namespace ExMenu
     {
         static void Main(string[] args)
         {
- bool repetir = true;
+            bool repetir = true;
             Console.WriteLine("Aplicação - Criando Menus");
             
             while (repetir)

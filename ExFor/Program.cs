@@ -6,6 +6,7 @@ namespace ExFor
     {
         static void Main(string[] args)
         {
+            System.Console.WriteLine("Quantas estrelas desejas na base da piramide de gizé?");
             int tamanhoTriangulo = int.Parse(Console.ReadLine());
             string estrela = "";
 

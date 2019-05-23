@@ -1,0 +1,11 @@
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExLoop5\bin\Debug\netcoreapp2.1\ExLoop5.deps.json
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExLoop5\bin\Debug\netcoreapp2.1\ExLoop5.runtimeconfig.json
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExLoop5\bin\Debug\netcoreapp2.1\ExLoop5.runtimeconfig.dev.json
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExLoop5\bin\Debug\netcoreapp2.1\ExLoop5.dll
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExLoop5\bin\Debug\netcoreapp2.1\ExLoop5.pdb
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExLoop5\obj\Debug\netcoreapp2.1\ExLoop5.csprojAssemblyReference.cache
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExLoop5\obj\Debug\netcoreapp2.1\ExLoop5.csproj.CoreCompileInputs.cache
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExLoop5\obj\Debug\netcoreapp2.1\ExLoop5.AssemblyInfoInputs.cache
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExLoop5\obj\Debug\netcoreapp2.1\ExLoop5.AssemblyInfo.cs
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExLoop5\obj\Debug\netcoreapp2.1\ExLoop5.dll
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExLoop5\obj\Debug\netcoreapp2.1\ExLoop5.pdb

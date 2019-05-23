@@ -1,0 +1,11 @@
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExPlanoFinanceiro\bin\Debug\netcoreapp2.1\ExPlanoFinanceiro.deps.json
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExPlanoFinanceiro\bin\Debug\netcoreapp2.1\ExPlanoFinanceiro.runtimeconfig.json
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExPlanoFinanceiro\bin\Debug\netcoreapp2.1\ExPlanoFinanceiro.runtimeconfig.dev.json
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExPlanoFinanceiro\bin\Debug\netcoreapp2.1\ExPlanoFinanceiro.dll
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExPlanoFinanceiro\bin\Debug\netcoreapp2.1\ExPlanoFinanceiro.pdb
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExPlanoFinanceiro\obj\Debug\netcoreapp2.1\ExPlanoFinanceiro.csprojAssemblyReference.cache
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExPlanoFinanceiro\obj\Debug\netcoreapp2.1\ExPlanoFinanceiro.csproj.CoreCompileInputs.cache
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExPlanoFinanceiro\obj\Debug\netcoreapp2.1\ExPlanoFinanceiro.AssemblyInfoInputs.cache
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExPlanoFinanceiro\obj\Debug\netcoreapp2.1\ExPlanoFinanceiro.AssemblyInfo.cs
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExPlanoFinanceiro\obj\Debug\netcoreapp2.1\ExPlanoFinanceiro.dll
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExPlanoFinanceiro\obj\Debug\netcoreapp2.1\ExPlanoFinanceiro.pdb

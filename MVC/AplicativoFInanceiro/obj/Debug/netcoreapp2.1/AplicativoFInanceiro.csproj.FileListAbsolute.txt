@@ -1,0 +1,11 @@
+C:\Users\38850490828\Documents\Aulas C#\MVC\AplicativoFInanceiro\bin\Debug\netcoreapp2.1\AplicativoFInanceiro.deps.json
+C:\Users\38850490828\Documents\Aulas C#\MVC\AplicativoFInanceiro\bin\Debug\netcoreapp2.1\AplicativoFInanceiro.runtimeconfig.json
+C:\Users\38850490828\Documents\Aulas C#\MVC\AplicativoFInanceiro\bin\Debug\netcoreapp2.1\AplicativoFInanceiro.runtimeconfig.dev.json
+C:\Users\38850490828\Documents\Aulas C#\MVC\AplicativoFInanceiro\bin\Debug\netcoreapp2.1\AplicativoFInanceiro.dll
+C:\Users\38850490828\Documents\Aulas C#\MVC\AplicativoFInanceiro\bin\Debug\netcoreapp2.1\AplicativoFInanceiro.pdb
+C:\Users\38850490828\Documents\Aulas C#\MVC\AplicativoFInanceiro\obj\Debug\netcoreapp2.1\AplicativoFInanceiro.csprojAssemblyReference.cache
+C:\Users\38850490828\Documents\Aulas C#\MVC\AplicativoFInanceiro\obj\Debug\netcoreapp2.1\AplicativoFInanceiro.csproj.CoreCompileInputs.cache
+C:\Users\38850490828\Documents\Aulas C#\MVC\AplicativoFInanceiro\obj\Debug\netcoreapp2.1\AplicativoFInanceiro.AssemblyInfoInputs.cache
+C:\Users\38850490828\Documents\Aulas C#\MVC\AplicativoFInanceiro\obj\Debug\netcoreapp2.1\AplicativoFInanceiro.AssemblyInfo.cs
+C:\Users\38850490828\Documents\Aulas C#\MVC\AplicativoFInanceiro\obj\Debug\netcoreapp2.1\AplicativoFInanceiro.dll
+C:\Users\38850490828\Documents\Aulas C#\MVC\AplicativoFInanceiro\obj\Debug\netcoreapp2.1\AplicativoFInanceiro.pdb

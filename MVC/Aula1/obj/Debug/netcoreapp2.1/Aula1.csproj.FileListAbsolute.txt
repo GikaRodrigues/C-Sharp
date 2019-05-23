@@ -1,0 +1,11 @@
+C:\Users\38850490828\Documents\Aulas C#\MVC\Aula1\obj\Debug\netcoreapp2.1\Aula1.csprojAssemblyReference.cache
+C:\Users\38850490828\Documents\Aulas C#\MVC\Aula1\obj\Debug\netcoreapp2.1\Aula1.csproj.CoreCompileInputs.cache
+C:\Users\38850490828\Documents\Aulas C#\MVC\Aula1\obj\Debug\netcoreapp2.1\Aula1.AssemblyInfoInputs.cache
+C:\Users\38850490828\Documents\Aulas C#\MVC\Aula1\obj\Debug\netcoreapp2.1\Aula1.AssemblyInfo.cs
+C:\Users\38850490828\Documents\Aulas C#\MVC\Aula1\bin\Debug\netcoreapp2.1\Aula1.deps.json
+C:\Users\38850490828\Documents\Aulas C#\MVC\Aula1\bin\Debug\netcoreapp2.1\Aula1.runtimeconfig.json
+C:\Users\38850490828\Documents\Aulas C#\MVC\Aula1\bin\Debug\netcoreapp2.1\Aula1.runtimeconfig.dev.json
+C:\Users\38850490828\Documents\Aulas C#\MVC\Aula1\bin\Debug\netcoreapp2.1\Aula1.dll
+C:\Users\38850490828\Documents\Aulas C#\MVC\Aula1\bin\Debug\netcoreapp2.1\Aula1.pdb
+C:\Users\38850490828\Documents\Aulas C#\MVC\Aula1\obj\Debug\netcoreapp2.1\Aula1.dll
+C:\Users\38850490828\Documents\Aulas C#\MVC\Aula1\obj\Debug\netcoreapp2.1\Aula1.pdb

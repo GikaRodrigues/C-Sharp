@@ -1,0 +1,11 @@
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExArreyImpar\bin\Debug\netcoreapp2.1\ExArreyImpar.deps.json
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExArreyImpar\bin\Debug\netcoreapp2.1\ExArreyImpar.runtimeconfig.json
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExArreyImpar\bin\Debug\netcoreapp2.1\ExArreyImpar.runtimeconfig.dev.json
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExArreyImpar\bin\Debug\netcoreapp2.1\ExArreyImpar.dll
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExArreyImpar\bin\Debug\netcoreapp2.1\ExArreyImpar.pdb
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExArreyImpar\obj\Debug\netcoreapp2.1\ExArreyImpar.csprojAssemblyReference.cache
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExArreyImpar\obj\Debug\netcoreapp2.1\ExArreyImpar.csproj.CoreCompileInputs.cache
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExArreyImpar\obj\Debug\netcoreapp2.1\ExArreyImpar.AssemblyInfoInputs.cache
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExArreyImpar\obj\Debug\netcoreapp2.1\ExArreyImpar.AssemblyInfo.cs
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExArreyImpar\obj\Debug\netcoreapp2.1\ExArreyImpar.dll
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExArreyImpar\obj\Debug\netcoreapp2.1\ExArreyImpar.pdb

@@ -9,7 +9,7 @@ namespace ExFor2
 
             for (int i = 0; i <= 100; i++)
             {
-                Console.WriteLine(((i % 4 !=0) ? i.ToString() : "PI"));          
+                Console.WriteLine(((i % 4 !=0) ? i.ToString() : "PI"));
             }
         }
     }

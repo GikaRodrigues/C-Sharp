@@ -1,0 +1,4 @@
+C:\Users\38850490828\Documents\Aulas C#\MVC\ExReciclagem\obj\Debug\netcoreapp2.1\ExReciclagem.csprojAssemblyReference.cache
+C:\Users\38850490828\Documents\Aulas C#\MVC\ExReciclagem\obj\Debug\netcoreapp2.1\ExReciclagem.csproj.CoreCompileInputs.cache
+C:\Users\38850490828\Documents\Aulas C#\MVC\ExReciclagem\obj\Debug\netcoreapp2.1\ExReciclagem.AssemblyInfoInputs.cache
+C:\Users\38850490828\Documents\Aulas C#\MVC\ExReciclagem\obj\Debug\netcoreapp2.1\ExReciclagem.AssemblyInfo.cs

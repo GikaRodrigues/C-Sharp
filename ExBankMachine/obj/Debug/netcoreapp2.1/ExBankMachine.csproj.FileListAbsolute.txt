@@ -1,0 +1,11 @@
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExBankMachine\bin\Debug\netcoreapp2.1\ExBankMachine.deps.json
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExBankMachine\bin\Debug\netcoreapp2.1\ExBankMachine.runtimeconfig.json
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExBankMachine\bin\Debug\netcoreapp2.1\ExBankMachine.runtimeconfig.dev.json
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExBankMachine\bin\Debug\netcoreapp2.1\ExBankMachine.dll
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExBankMachine\bin\Debug\netcoreapp2.1\ExBankMachine.pdb
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExBankMachine\obj\Debug\netcoreapp2.1\ExBankMachine.csprojAssemblyReference.cache
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExBankMachine\obj\Debug\netcoreapp2.1\ExBankMachine.csproj.CoreCompileInputs.cache
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExBankMachine\obj\Debug\netcoreapp2.1\ExBankMachine.AssemblyInfoInputs.cache
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExBankMachine\obj\Debug\netcoreapp2.1\ExBankMachine.AssemblyInfo.cs
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExBankMachine\obj\Debug\netcoreapp2.1\ExBankMachine.dll
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExBankMachine\obj\Debug\netcoreapp2.1\ExBankMachine.pdb

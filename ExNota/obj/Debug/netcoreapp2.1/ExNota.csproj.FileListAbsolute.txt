@@ -1,0 +1,11 @@
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExNota\bin\Debug\netcoreapp2.1\ExNota.deps.json
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExNota\bin\Debug\netcoreapp2.1\ExNota.runtimeconfig.json
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExNota\bin\Debug\netcoreapp2.1\ExNota.runtimeconfig.dev.json
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExNota\bin\Debug\netcoreapp2.1\ExNota.dll
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExNota\bin\Debug\netcoreapp2.1\ExNota.pdb
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExNota\obj\Debug\netcoreapp2.1\ExNota.csprojAssemblyReference.cache
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExNota\obj\Debug\netcoreapp2.1\ExNota.csproj.CoreCompileInputs.cache
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExNota\obj\Debug\netcoreapp2.1\ExNota.AssemblyInfoInputs.cache
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExNota\obj\Debug\netcoreapp2.1\ExNota.AssemblyInfo.cs
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExNota\obj\Debug\netcoreapp2.1\ExNota.dll
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExNota\obj\Debug\netcoreapp2.1\ExNota.pdb

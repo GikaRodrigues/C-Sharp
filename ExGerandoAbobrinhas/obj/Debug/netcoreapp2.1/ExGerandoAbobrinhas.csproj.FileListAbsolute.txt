@@ -1,0 +1,11 @@
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExGerandoAbobrinhas\obj\Debug\netcoreapp2.1\ExGerandoAbobrinhas.csprojAssemblyReference.cache
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExGerandoAbobrinhas\obj\Debug\netcoreapp2.1\ExGerandoAbobrinhas.csproj.CoreCompileInputs.cache
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExGerandoAbobrinhas\obj\Debug\netcoreapp2.1\ExGerandoAbobrinhas.AssemblyInfoInputs.cache
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExGerandoAbobrinhas\obj\Debug\netcoreapp2.1\ExGerandoAbobrinhas.AssemblyInfo.cs
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExGerandoAbobrinhas\bin\Debug\netcoreapp2.1\ExGerandoAbobrinhas.deps.json
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExGerandoAbobrinhas\bin\Debug\netcoreapp2.1\ExGerandoAbobrinhas.runtimeconfig.json
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExGerandoAbobrinhas\bin\Debug\netcoreapp2.1\ExGerandoAbobrinhas.runtimeconfig.dev.json
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExGerandoAbobrinhas\bin\Debug\netcoreapp2.1\ExGerandoAbobrinhas.dll
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExGerandoAbobrinhas\bin\Debug\netcoreapp2.1\ExGerandoAbobrinhas.pdb
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExGerandoAbobrinhas\obj\Debug\netcoreapp2.1\ExGerandoAbobrinhas.dll
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExGerandoAbobrinhas\obj\Debug\netcoreapp2.1\ExGerandoAbobrinhas.pdb

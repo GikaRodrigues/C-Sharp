@@ -1,0 +1,11 @@
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExAirLines\obj\Debug\netcoreapp2.1\ExAirLines.csprojAssemblyReference.cache
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExAirLines\obj\Debug\netcoreapp2.1\ExAirLines.csproj.CoreCompileInputs.cache
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExAirLines\obj\Debug\netcoreapp2.1\ExAirLines.AssemblyInfoInputs.cache
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExAirLines\obj\Debug\netcoreapp2.1\ExAirLines.AssemblyInfo.cs
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExAirLines\bin\Debug\netcoreapp2.1\ExAirLines.deps.json
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExAirLines\bin\Debug\netcoreapp2.1\ExAirLines.runtimeconfig.json
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExAirLines\bin\Debug\netcoreapp2.1\ExAirLines.runtimeconfig.dev.json
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExAirLines\bin\Debug\netcoreapp2.1\ExAirLines.dll
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExAirLines\bin\Debug\netcoreapp2.1\ExAirLines.pdb
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExAirLines\obj\Debug\netcoreapp2.1\ExAirLines.dll
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\ExAirLines\obj\Debug\netcoreapp2.1\ExAirLines.pdb
